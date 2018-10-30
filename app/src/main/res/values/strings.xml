@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidFaceLandmask</string>
+    <string name="btn_process">process</string>
+</resources>
